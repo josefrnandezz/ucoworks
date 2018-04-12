@@ -28,7 +28,7 @@ class AppFixtures extends Fixture
     {
         $users = [
             [ 'admin', ['ROLE_ADMIN'] ],
-            [ 'sgomez', ['ROLE_USER'] ],
+            [ 'josefrnandezz', ['ROLE_USER'] ],
         ];
 
         foreach ($users as $user) {
